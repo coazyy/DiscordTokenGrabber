@@ -1,0 +1,7 @@
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\bin\Debug\DiscordTokenGrabber.exe.config
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\bin\Debug\DiscordTokenGrabber.exe
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\bin\Debug\DiscordTokenGrabber.pdb
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\obj\Debug\DiscordTokenGrabber.csprojAssemblyReference.cache
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\obj\Debug\DiscordTokenGrabber.csproj.CoreCompileInputs.cache
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\obj\Debug\DiscordTokenGrabber.exe
+C:\Users\maxco\source\repos\DiscordTokenGrabber\DiscordTokenGrabber\obj\Debug\DiscordTokenGrabber.pdb
